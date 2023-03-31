@@ -1,0 +1,70 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+.titulo{
+    background-color: rgb(31, 180, 255);
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+.juegos{
+    float:right;
+}
+
+.videojuegos{
+    width: 50%;
+    align-items: center;
+    justify-content: space-around;
+    float: left;
+    background-color: blueviolet;
+    margin-top: 1.5rem;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-left: 2rem;
+    padding: 10px;
+}
+
+.nadar{
+    width: 50%;
+    align-items: center;
+    justify-content: space-around;
+    float: left;
+    background-color: rgb(91, 110, 255);
+    margin-top: 7.5rem;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-left: 2rem;
+    padding: 10px;
+}
+
+.natacion{
+    float: right;
+    width: 450px;
+    height: 300px;
+    margin-top: 1rem;
+}
+
+.pasar_tiempo{
+    width: 50%;
+    align-items: center;
+    justify-content: space-around;
+    float: left;
+    background-color: rgb(96, 255, 52);
+    margin-top: 7rem;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-left: 2rem;
+    padding: 10px;
+}
+
+.amigos{
+    float: right;
+    width: 450px;
+    height: 300px;
+    margin-top: 1rem;
+}
